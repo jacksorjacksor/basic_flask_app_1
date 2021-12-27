@@ -4,7 +4,7 @@
 
 All this does is render the word "HI!" when you visit the root directory of the server.
 
-## Requirements
+## Usage instructions
 
 ```
 # - Create the virtual environment
